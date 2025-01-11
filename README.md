@@ -1,2 +1,2 @@
 # Connect 4 React Game #
-This Is GAme is Completely developed with React JS and Deployed https://elegant-daifuku-16ccab.netlify.app/
+This Game is Completely developed with React JS and anyone can play this game and have fun https://elegant-daifuku-16ccab.netlify.app/
